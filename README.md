@@ -16,5 +16,5 @@ Switter is a social networking application inspired by Twitter. It allows users 
 To run the project, you will need to start the server and then connect one or more clients to the server.
 
 1. Compile the server and client project as a C# GUI application.
-2.Start the server by specifying the port number it should listen on.
-3.Connect a client to the server by specifying the server's IP address and port number using the GUI. You will also need to enter a username.
+2. Start the server by specifying the port number it should listen on.
+3. Connect a client to the server by specifying the server's IP address and port number using the GUI. You will also need to enter a username.
